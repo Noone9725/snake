@@ -27,3 +27,4 @@ Bước 2: Copy file “libbgi.a” vào thư mục “(Path)\MinGW64\x86_64-w64
 Bước 3: Copy 2 file “6-ConsoleAppGraphics.template” và “ConsoleApp_cpp_graph.txt” vào thư mục “(Path)\Templates”.
 **Lưu ý:Nếu bạn cài Dev C++ 32 bit thì không sao, còn nếu là 64 bit thì các bạn chọn trình biên dịch là TDM-GCC 32 bit ứng với phiên bản Dev C++ bạn cài đặt
 (Đây là bước bắt buộc và phải làm từ đầu, nếu không thì sẽ không chạy được đồ họa).
+3.  Còn lại cài đặt các file và chơi thông qua mục Project_snake.exe
