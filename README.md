@@ -2,7 +2,9 @@ Game snake:
 
 Mô tả:
 •	Game rắn săn mồi được viết bằng ngôn ngữ lập trình C++
+
 •	Thư viện sử dụng đồ họa winbgim.h
+
 •	Điều khiển bằng chuột và bàn phím
 
 Cài đặt:
