@@ -9,6 +9,7 @@ Cài đặt:
 1.	Download thư viện winbgim.h qua đường link: https://drive.google.com/file/d/1UK0316yZEZorN-MWCqxgIGBH79os6vvC/view
 2.	Hướng dẫn thêm thư viện đồ họa:
 (Chi tiết qua đường link: https://thaynhuom.edu.vn/huongdancaidatvathemthuviendohoatrongc/)
+
 – Đường dẫn (Path):
 + Với Windows 32 bit: Path=”C:\Program Files\Dev-Cpp”
 + Với Windows 64 bit: Path=”C:\Program Files (x86)\Dev-Cpp”
