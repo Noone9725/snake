@@ -28,6 +28,7 @@ Bước 3: Copy 2 file “6-ConsoleAppGraphics.template” và “ConsoleApp_cpp
 **Lưu ý:Nếu bạn cài Dev C++ 32 bit thì không sao, còn nếu là 64 bit thì các bạn chọn trình biên dịch là TDM-GCC 32 bit ứng với phiên bản Dev C++ bạn cài đặt
 (Đây là bước bắt buộc và phải làm từ đầu, nếu không thì sẽ không chạy được đồ họa).
 3.  Còn lại cài đặt các file và chơi thông qua mục Project_snake.exe
+  
 III.Hướng dẫn chơi:
 - Sử dụng chuột chọn chế độ,độ khó tại menu
 - Sử dụng các phím mũi tên để di chuyển cho rắn ăn và nhận điểm (có hướng dẫn phím trong gamme)
